@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  
+}
+.pictures {
+  display: inline-flex;
+  flex-direction:  column ;
+  flex: 2;
+  width: 360px; 
+  margin: 15px;
+}
+.input{
+  position: relative;
+  top: -10px;
+}
+.button{
+  text-decoration: none;
+  width: 150px;
+ height: 30px; 
+ background-color: rgb(49, 209, 57);
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+}
+.a{
+  text-decoration: none;
+  color: white;
+}
+.App-title{
+  font-family: monospace;
+}
+
+
+
+
